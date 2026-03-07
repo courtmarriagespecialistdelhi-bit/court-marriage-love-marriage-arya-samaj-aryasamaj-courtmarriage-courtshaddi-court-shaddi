@@ -1,21 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://courtmarriage.shop/</loc>
-        <lastmod>2026-03-07</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://courtmarriage.shop/about.html</loc>
-        <lastmod>2026-03-07</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://courtmarriage.shop/sitemap.html</loc>
-        <lastmod>2026-03-07</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://courtmarriage.shop/</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://courtmarriage.shop/images/hero-image.jpg</image:loc>
+      <image:caption>Court marriage specialist Delhi Ghaziabad, legal wedding services, same day marriage registration</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://courtmarriage.shop/images/indian-wedding-1.jpg</image:loc>
+      <image:caption>Indian wedding couple, traditional Hindu marriage, Arya Samaj mandir wedding Delhi</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://courtmarriage.shop/images/indian-wedding-2.jpg</image:loc>
+      <image:caption>Indian wedding hands, traditional marriage rituals, court marriage Ghaziabad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://courtmarriage.shop/images/indian-wedding-3.jpg</image:loc>
+      <image:caption>Indian wedding ceremony blessings, legal marriage certificate Delhi NCR</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://courtmarriage.shop/images/arya-samaj-wedding.jpg</image:loc>
+      <image:caption>Arya Samaj wedding fire ceremony, traditional Hindu rites, same day court marriage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://courtmarriage.shop/images/court-marriage-couple.jpg</image:loc>
+      <image:caption>Court marriage couple signing documents, Special Marriage Act registration</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://courtmarriage.shop/images/fees-structure.png</image:loc>
+      <image:caption>Court marriage fees Delhi Ghaziabad, affordable legal marriage cost, tatkal marriage price</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://courtmarriage.shop/about.html</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://courtmarriage.shop/sitemap.html</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
