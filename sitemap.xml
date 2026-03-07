@@ -13,21 +13,9 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://yourusername.github.io/your-repo-name/contact.html</loc>
+        <loc>https://yourusername.github.io/your-repo-name/sitemap.html</loc>
         <lastmod>2026-03-07</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://yourusername.github.io/your-repo-name/privacy-policy.html</loc>
-        <lastmod>2026-03-07</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.3</priority>
-    </url>
-    <url>
-        <loc>https://yourusername.github.io/your-repo-name/terms-of-service.html</loc>
-        <lastmod>2026-03-07</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.3</priority>
+        <priority>0.6</priority>
     </url>
 </urlset>
